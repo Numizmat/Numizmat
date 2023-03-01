@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #### I am Eugene, IT Specialist and master of computer science.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Vbu1MROenErCauNAet/giphy.gif" width="100"/>
+</div>
