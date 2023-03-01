@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 #### I am Eugene, IT Specialist and master of computer science.
 
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/Nebul-Oigen-blue" alt="LinkedIn Badge"/>
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Vbu1MROenErCauNAet/giphy.gif" width="100"/>
 </div>
