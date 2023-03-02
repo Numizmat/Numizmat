@@ -22,9 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Nebul-Oigen-blue" alt="LinkedIn Badge"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Vbu1MROenErCauNAet/giphy.gif" width="100"/>
-</div>
+
 
 <div id="header" align="center">
   <img src="https://ucarecdn.com/f110f636-d545-4bb4-ab12-206c3bea4f55/" width="100"/>
